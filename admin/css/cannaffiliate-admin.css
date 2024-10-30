@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ 
+.toplevel_page_cannaffiliate .wp-menu-image img {
+	width: 20px;
+	height: 20px;
+}
+
+.cannaffiliate-settings .settings-header {
+    text-align: center;
+	margin: 20px;
+}
+.cannaffiliate-settings .settings-header .header-title {
+	color: #004458;
+}
+.cannaffiliate-settings .settings-content {
+	margin: 20px;
+}
